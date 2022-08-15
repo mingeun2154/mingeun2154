@@ -3,7 +3,7 @@
 
 * ### [이론 📚](https://github.com/mingeun2154/CS)    
 * ### [기술 💻](https://github.com/mingeun2154/skill)
-* ### [프로젝트](https://github.com/mingeun2154/project)
+* ### [프로젝트 🗂](https://github.com/mingeun2154/project)
 
 <!---
 mingeun2154/mingeun2154 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
