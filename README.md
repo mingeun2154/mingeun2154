@@ -8,7 +8,7 @@
 
 #    
       
-* ### [running](https://github.com/mingeun2154/running)
+* ### [running 👟](https://github.com/mingeun2154/running)
 
 <!---
 mingeun2154/mingeun2154 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
